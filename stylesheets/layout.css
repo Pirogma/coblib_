@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-  background-color: white;
+  background-image: image(https://st2.depositphotos.com/4072575/10666/i/950/depositphotos_106667802-stock-photo-texture-canvas-fabric-as-background.jpg);
   z-index: 10;
   box-sizing: border-box;
   display: flex;
@@ -41,12 +41,12 @@ article.intro {
 h1 {
   font-family: 'Futura', sans-serif;
   padding-top: 25px;
-  color: #1f00ff;
+  color: #ff7029;
   font-size: 50px;
   font-weight: 700;
 }
 h2 {
-  color: #393186;
+  color: #1f00ff;
   font-size: 36px;
   line-height: 46px;
   font-weight: 700;
