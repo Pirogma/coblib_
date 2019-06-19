@@ -9,7 +9,6 @@ body {
 }
 
 nav {
-  background-image: image(https://st2.depositphotos.com/4072575/10666/i/950/depositphotos_106667802-stock-photo-texture-canvas-fabric-as-background.jpg);
   z-index: 10;
   box-sizing: border-box;
   display: flex;
@@ -53,7 +52,7 @@ h2 {
 }
 
 p {
-  margin-top: 20px;
+  margin-top: 30px;
   font-size: 23px;
   line-height: 38px;
 }
@@ -65,9 +64,9 @@ p {
 
 .intro img {
   position: absolute;
-  right: 50px;
-  margin-top: -480px;
-  width: 450px;
+  right: 20px;
+  margin-top: -460px;
+  width: 650px;
 }
 
 article.suffering h2 {
