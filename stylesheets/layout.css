@@ -75,8 +75,9 @@ article.suffering h2 {
 }
 
 .suffering img {
-    width: 650px;
-    margin-top: 50px;
+  position: absolute;
+    width: 850px;
+    margin-top: 45px;
 }
 
 .choice img {
