@@ -38,6 +38,8 @@ article.intro {
   text-align: left;
 }
 
+
+
 h1 {
   font-family: 'Futura', sans-serif;
   padding-top: 25px;
@@ -71,19 +73,25 @@ p {
 }
 
 article.suffering h2 {
-  margin-top: 150px;
+  margin-top: 100px;
+}
+
+article.suffering  {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
 }
 
 .suffering img {
-  position: absolute;
-    width: 850px;
+  float: right;
+
     margin-top: 75px;
     margin-left: -20px;
 }
 
 article.circles img {
     position: absolute;
-    margin-top: 30px;
+    margin-top: -90px;
     margin-left: -20px;
 }
 
